@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/deepslate_tiles",
+    "side": "minecraft:block/obsidian",
+    "top": "minecraft:block/enchanting_table_top"
+  }
+}
+

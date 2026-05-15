@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 13287111,
+    "separation": 4,
+    "spacing": 12
+  },
+  "structures": [
+    {
+      "structure": "spout_dungeons:disenchantment_ruin",
+      "weight": 1
+    }
+  ]
+}

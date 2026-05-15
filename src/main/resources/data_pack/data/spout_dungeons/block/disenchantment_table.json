@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:block",
+  "properties": {
+    "map_color": "minecraft:color_purple",
+    "sound_type": "minecraft:amethyst",
+    "light_emission": 7,
+    "explosion_resistance": 6.0,
+    "destroy_time": 3.5,
+    "instrument": "minecraft:bell"
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:enchanting_table"
+    }
+  ]
+}

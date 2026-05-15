@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "A data pack for Spout Dungeons",
+    "min_format": [101, 1],
+    "max_format": [101, 1]
+  }
+}
+

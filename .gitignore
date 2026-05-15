@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+
+# JVM crash related
+hs_err_pid*
+*.hprof
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Mac
+.DS_Store

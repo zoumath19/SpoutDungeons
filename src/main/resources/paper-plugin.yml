@@ -1,0 +1,20 @@
+name: Spout-Dungeons
+version: ${version}
+main: spout.server.paper.dungeons.SpoutDungeonsPlugin
+description: Dungeon experiments for Spout
+author: Spout authors and contributors
+api-version: ${apiversion}
+load: STARTUP
+bootstrapper: spout.server.paper.dungeons.SpoutDungeonsBootstrap
+defaultPerm: FALSE
+commands:
+  dungeons:
+    description: Gives Spout Dungeons test items
+    usage: /dungeons table
+    permission: spout-dungeons.command
+permissions:
+  spout-dungeons.command:
+    default: true
+dependencies:
+namespaces:
+  spout_dungeons: Spout Dungeons
